@@ -1,0 +1,18 @@
+h1{
+    background-color: green;
+    color: #fff;
+    padding: 20px;
+}
+
+table th, td{
+    border: 2px solid black;
+    padding: 15px;
+
+ .input.col{
+        border:none;
+        border-radius: unset;
+        border-bottom: 1px solid var(--color-border):
+        font-family:var(--font-ubuntu):
+        font-size:18px;
+
+}
